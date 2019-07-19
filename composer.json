@@ -1,5 +1,5 @@
 {
-    "name": "pear2/net_routeros",
+    "name": "zooxsmart/net_routeros",
     "description": "This package allows you to read and write information from a RouterOS host using MikroTik's RouterOS API.",
     "keywords": ["routeros", "package", "api", "mikrotik", "pear2", "router"],
     "homepage": "http://pear2.github.com/Net_RouterOS/",
